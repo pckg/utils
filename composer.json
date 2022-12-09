@@ -9,9 +9,11 @@
       "email": "schtr4jh@schtr4jh.net"
     }
   ],
-  "require": {},
+  "require": {
+    "php": "8.0.*"
+  },
   "require-dev": {
-    "pckg-app/frontend-dev": "dev-master"
+    "pckg-app/frontend-dev": "dev-next-8.0 as master"
   },
   "autoload": {
     "psr-4": {

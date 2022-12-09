@@ -8,7 +8,6 @@ namespace Pckg\Utils;
  */
 class Retry
 {
-
     /**
      * @var int|null
      */
